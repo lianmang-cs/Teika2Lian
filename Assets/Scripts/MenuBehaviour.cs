@@ -4,6 +4,6 @@ public class MenuBehaviour : MonoBehaviour
 {
     
     public void goToGame() {
-        SceneManager.LoadScene(""); 
+        SceneManager.LoadScene("TeikaGameV2"); 
     }
 }
